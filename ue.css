@@ -1,0 +1,39 @@
+
+
+.logo img{
+    width: 164px;
+}
+nav{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family:Inter,Helvetica,Arial,Lucida,sans-serif;
+    font-size: 14px;
+    background-color: rgb(232, 232, 241);
+    
+    
+}
+.right ul{
+    display: flex;
+    gap: 34px;
+    
+}
+.right ul li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+}
+.down li{
+    display: flex;
+    background-color: rgb(255, 200, 0);
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.right ul li span{
+    padding: 0 5px;
+}
