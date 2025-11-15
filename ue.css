@@ -9,6 +9,12 @@ nav{
     align-items: center;
     font-family:Inter,Helvetica,Arial,Lucida,sans-serif;
     font-size: 14px;
+    .my-box {
+  border: 5px solid #ff0000; /* Default border for all sides */
+  border-bottom: 3px dashed blue; /* Overrides the bottom border */
+  border-radius: 8px; /* Rounds the corners of the border */
+  padding: 15px; /* Adds space between content and border */
+}
     background-color: rgb(232, 232, 241);
     
     
