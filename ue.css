@@ -36,3 +36,15 @@ nav{
 .right ul li span{
     padding: 0 5px;
 }
+.halka{
+    background-color: #ffd741;
+    border-style: solid;
+    padding-left: .7em;
+    font-size: 12px;
+    border: 2px;
+    border-color: #ffd741;
+
+}
+.main{
+    margin: 50
+}
