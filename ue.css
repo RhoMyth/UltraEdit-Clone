@@ -48,3 +48,8 @@ nav{
 .main{
     margin: 50
 }
+.code{
+    width: 40%;
+    margin-top: 50px;
+    justify-content: right;
+}
