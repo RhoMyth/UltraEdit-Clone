@@ -13,6 +13,7 @@ nav{
     border: 1px solid #e5e5e5;
     padding: 8px 16px 8px 16px;
     margin: 0px 44px;
+    gap: 238px;
 }
 .right ul{
     display: flex;
@@ -23,6 +24,7 @@ nav{
     list-style: none;
     display: flex;
     align-items: center;
+    cursor: pointer;
 
 }
 .down li{
@@ -54,4 +56,15 @@ nav{
     width: 40%;
     margin-top: 50px;
     justify-content: right;
+}
+
+button.dabba2{
+
+    cursor: pointer;
+}
+button.dabba1{
+    cursor: pointer;
+}
+button.halka{
+    cursor: pointer;
 }
