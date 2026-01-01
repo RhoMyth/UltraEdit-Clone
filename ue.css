@@ -139,11 +139,12 @@ button.dabba1{
 button.dabba2{
     background-color: #f2f0ec;
     border: none;
-    width: 200px;
+    width: 120px;
     height: 50px;
     border-radius: 4px;
     font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
     font-size: 16px;
     color: #000000;
     margin-left: 20px;
+    transform: translateY(-10px);
 }
