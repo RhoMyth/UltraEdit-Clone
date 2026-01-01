@@ -1,33 +1,35 @@
-
-
-.logo img{
+.logo img {
     width: 164px;
 }
-nav{
+
+nav {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     align-items: center;
-    font-family:Inter,Helvetica,Arial,Lucida,sans-serif;
+    font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
     font-size: 14px;
     background-color: #f6f6f6;
     border: 1px solid #e5e5e5;
     padding: 8px 16px 8px 16px;
     margin: 0px 44px;
-    gap: 400px;
+    gap: 363px;
 }
-.right ul{
+
+.right ul {
     display: flex;
     gap: 34px;
-    
+
 }
-.right ul li{
+
+.right ul li {
     list-style: none;
     display: flex;
     align-items: center;
     cursor: pointer;
 
 }
-.down li{
+
+.down li {
     display: flex;
     background-color: #ffd741;
     width: 113px;
@@ -35,12 +37,14 @@ nav{
     border-radius: 4px;
     align-items: center;
     justify-content: center;
-    
+
 }
-.right ul li span{
+
+.right ul li span {
     padding: 0 5px;
 }
-.halka{
+
+.halka {
     background-color: #ffd741;
     border-style: solid;
     padding-left: .7em;
@@ -49,31 +53,52 @@ nav{
     border-color: #ffd741;
 
 }
-.main{
+
+.main {
     margin: 50
 }
-nav.code{
-    width: 40%;
-    margin-top: 50px;
-    justify-content: right;
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 60px 80px;
 }
 
-button.dabba2{
+.hero-text {
+  width: 45%;
+}
+
+.hero-image {
+  width: 55%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.hero-image img {
+  max-width: 100%;
+}
+
+
+button.dabba2 {
 
     cursor: pointer;
 }
-button.dabba1{
+
+button.dabba1 {
     cursor: pointer;
 }
-button.halka{
+
+button.halka {
     cursor: pointer;
 }
-nav ul div.globe{
+
+nav ul div.globe {
     gap: 20px;
     display: flex;
 
 }
-nav ul div.spac{
+
+nav ul div.spac {
     gap: 20px;
     display: flex;
     align-items: center;
