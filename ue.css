@@ -78,6 +78,5 @@ nav ul div.spac{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid #ff0000;
     transform: translateX(-200px);
 }
