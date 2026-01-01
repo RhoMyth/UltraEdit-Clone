@@ -90,6 +90,12 @@ button.dabba1 {
 
 button.halka {
     cursor: pointer;
+    background-color: #fffdf5;
+    border: 2px solid #ffd741;
+    width: 200px;
+    height: 30px;
+    border-radius: 4px;
+    font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
 }
 
 nav ul div.globe {
@@ -104,4 +110,40 @@ nav ul div.spac {
     align-items: center;
     justify-content: center;
     transform: translateX(-200px);
+}
+div.hero-text h1{
+    font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 50px;
+    text-align: left;
+    line-height: 1.1em; 
+    margin-bottom: 20px;
+
+}
+div.hero-text p{
+    font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 18px;
+    text-align: left;
+    margin-bottom: 30px;
+    color: rgb(72, 72, 72);
+}
+button.dabba1{
+    background-color: #ffd741;
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 16px;
+    color: #000000;
+}
+button.dabba2{
+    background-color: #f2f0ec;
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 16px;
+    color: #000000;
+    margin-left: 20px;
 }
