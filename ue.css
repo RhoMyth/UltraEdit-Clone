@@ -13,7 +13,7 @@ nav{
     border: 1px solid #e5e5e5;
     padding: 8px 16px 8px 16px;
     margin: 0px 44px;
-    gap: 238px;
+    gap: 400px;
 }
 .right ul{
     display: flex;
@@ -52,7 +52,7 @@ nav{
 .main{
     margin: 50
 }
-.code{
+nav.code{
     width: 40%;
     margin-top: 50px;
     justify-content: right;
@@ -67,4 +67,17 @@ button.dabba1{
 }
 button.halka{
     cursor: pointer;
+}
+nav ul div.globe{
+    gap: 20px;
+    display: flex;
+
+}
+nav ul div.spac{
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #ff0000;
+    transform: translateX(-200px);
 }
