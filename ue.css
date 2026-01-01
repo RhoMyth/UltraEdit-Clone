@@ -51,6 +51,7 @@ nav {
     font-size: 12px;
     border: 2px;
     border-color: #ffd741;
+    color: #977800;
 
 }
 
@@ -129,22 +130,66 @@ div.hero-text p{
 button.dabba1{
     background-color: #ffd741;
     border: none;
-    width: 200px;
-    height: 50px;
+    width: 176px;
+    height: 46px;
     border-radius: 4px;
     font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
-    font-size: 16px;
+    font-size: 13px;
     color: #000000;
 }
 button.dabba2{
     background-color: #f2f0ec;
     border: none;
     width: 120px;
-    height: 50px;
+    height: 46px;
     border-radius: 4px;
     font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
-    font-size: 16px;
+    font-size: 13px;
     color: #000000;
     margin-left: 20px;
-    transform: translateY(-10px);
+    transform: translateY(-8px);
 }
+
+
+div.avail{
+    font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    margin: 10px 80px;
+    color: grey;
+}
+div.avail img.mac{
+    width: 70px;
+    margin-left: 8px;
+    margin-top: -8px;
+}
+.image-caption {
+    margin-top: 12px;
+    font-family: Inter, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 13px;
+    color: rgb(120, 120, 120);
+    line-height: 1.4;
+    max-width: 90%;
+}
+div.hero-image{
+    font-family: poppins, Helvetica, Arial, Lucida, sans-serif;
+    color: rgb(72, 72, 72);
+    font-size: 12px;
+    margin-top: 8px;
+    text-align: left;
+    width:max-content;
+    margin-left: 75px;
+    
+}
+div.quote{
+    font-family: Poppins, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 15px;
+    margin: 0px 130px;
+    color: grey;
+    line-height: 1.4;
+    text-align: end;
+
+}
+div.quote br{
+    font-family: Poppins, Helvetica, Arial, Lucida, sans-serif;
+}   
