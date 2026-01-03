@@ -27,7 +27,7 @@ This project focuses on recreating the **UI, layout, and responsiveness** of the
 
 ## 📸 Screenshots
 
-![UltraEdit Clone Screenshot](./assets/images/screenshot.png)
+![UltraEdit Clone Screenshot] (https://github.com/RhoMyth/UltraEdit-Clone/blob/main/Running%20site%20demo...png)
 
 > _Screenshot of the UltraEdit Clone homepage_
 
